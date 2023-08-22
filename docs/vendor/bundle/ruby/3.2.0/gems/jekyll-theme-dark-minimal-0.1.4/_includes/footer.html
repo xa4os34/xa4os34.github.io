@@ -1,0 +1,15 @@
+<br>
+<footer>
+    <p>
+        {% if site.cclicense %}
+          <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">
+              <img alt="Creative Commons License"
+                   style="border-width:0; display:inline"
+                   src="https://i.creativecommons.org/l/{{ site.cclicense }}/4.0/80x15.png" />
+              <i class="fa fa-external-link"></i></a>
+        {% else %}
+          <small>&copy;</small>
+        {% endif %}
+        <small> {{ site.author }} 2018</small>
+    </p>
+</footer>
