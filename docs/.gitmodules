@@ -1,3 +1,3 @@
-[submodule "docs/docs/vendor/bundle/ruby/3.2.0/bundler/gems/minima-2863624b903b"]
-	path = docs/docs/vendor/bundle/ruby/3.2.0/bundler/gems/minima-2863624b903b
+[submodule "docs/docs/vendor/bundle/ruby/3.2.0/bundler/gems/minima-*"]
+	path = docs/vendor/bundle/ruby/3.2.0/bundler/gems/minima-*
 	url = https://github.com/jekyll/minima
