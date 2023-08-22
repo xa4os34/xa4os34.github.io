@@ -1,1 +1,9 @@
-theme: jekyll-theme-dark-minimal
+theme: "minima"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"

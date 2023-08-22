@@ -1,3 +1,5 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-dark-minimal"
+gem "jekyll"
+gem "minima", git: "https://github.com/jekyll/minima"
+gem "kramdown-parser-gfm"
