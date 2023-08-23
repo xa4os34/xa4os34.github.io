@@ -212,3 +212,29 @@ using (FileStream stream = File.OpenFile(path, FileMode.OpenOrCreate))
 знаеш не бойся писать говно, и небойся удалять весь код который написал.
 
 а если все таки хочешь именно перенести, то можешь попробывать перекинуть весь код в Godot проект и заменить все GameObject на Node и все что ошибкой подчеркивается тоже просто потихоньку заминяй аналогами которые найдешь.
+
+# что почитать и интересные Links
+
+[DotNext](https://www.youtube.com/@DotNextConf) русская ежигодная конфиренция по 
+програмированию там дохуя про C# и про архитектуры и куча кеков (по GameDev там мб есть, 
+но тебе все равно будет полезно, ведь програмирования на C# не отличаеться от платформы).
+
+книга кодят там на C#: [паттерны проектирования на платформе .NET](https://vk.com/doc44301783_411162088?hash=lqZ9j2wAQg9Wa5UFsY6uCP5z2bi8AqEPw2FxZl2U9JD&dl=b7s5Cn08pjflEfSX0qBZ4t4cczG3Z9OdUnzD5CjbBBH)
+
+Мб еще ченибуть по Unity, Godot или про GameDev в общем.
+
+если по c# то можешь чекнуть еще аот этот видос: 
+[secret link](https://youtu.be/w8rRhAup4kg?t=147) вообщем видос норм. 
+Он разделен на секции просто, что знаешь то скипаешь.
+
+по архитектуре можеш чекнуть репозиторий 
+[osu lazer](https://github.com/ppy/osu)
+и 
+[osu-framework](https://github.com/ppy/osu-framework).
+это простая(отнасительно) игра написаная без движка. Можешь посмотреть 
+как там происходит деление на классы.
+
+и самое главное: 
+[secret link](https://learn.microsoft.com/en-us/dotnet/csharp/), 
+[another secret link](https://learn.microsoft.com/en-us/dotnet/fundamentals/) - 
+это все мои иконы в мире програмирования, ну там еще куча есть, но тебе они не нужны.
