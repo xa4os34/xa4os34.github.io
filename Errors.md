@@ -238,3 +238,6 @@ using (FileStream stream = File.OpenFile(path, FileMode.OpenOrCreate))
 [secret link](https://learn.microsoft.com/en-us/dotnet/csharp/), 
 [another secret link](https://learn.microsoft.com/en-us/dotnet/fundamentals/) - 
 это все мои иконы в мире програмирования, ну там еще куча есть, но тебе они не нужны.
+
+если знаеш English то тебе сюда:
+[secret link](https://www.youtube.com/@nickchapsas/videos) и [another secret link](https://www.youtube.com/@ThePrimeTimeagen)
