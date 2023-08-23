@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Errors
-permalink: /errors/
+title: 
+permalink: /Errors/
 ---
 
 # этот фай укаже на основные ошибки проекта
