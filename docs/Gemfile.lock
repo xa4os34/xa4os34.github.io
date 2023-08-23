@@ -43,11 +43,14 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    libv8-node (18.16.0.0-x86_64-linux)
     liquid (4.0.4)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    mini_racer (0.8.0)
+      libv8-node (~> 18.16.0.0)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -74,6 +77,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   kramdown-parser-gfm
+  mini_racer
   minima
 
 BUNDLED WITH
